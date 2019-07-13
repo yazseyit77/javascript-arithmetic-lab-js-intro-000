@@ -18,8 +18,12 @@ function divide(a, b){
 };
 divide(2, 5);
 
-function inc(n){
-  var n = 166;
+var i = 0;
+
+function increment(n){
+
   n++;
   return n;
 }
+
+i=increment(i);
