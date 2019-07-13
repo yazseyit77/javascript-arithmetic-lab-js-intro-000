@@ -26,3 +26,11 @@ function inc(n){
 }
 
 i=inc(i);
+
+function dec(n){
+  n++;
+  return n;
+}
+
+i=dec(i);
+
