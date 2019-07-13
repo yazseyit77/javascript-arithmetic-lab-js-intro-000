@@ -39,3 +39,9 @@ function makeInt(n){
 }
 
 makeInt("2");
+
+function makeInt(n, 10){
+  return n;
+}
+
+makeInt("2", 10);
