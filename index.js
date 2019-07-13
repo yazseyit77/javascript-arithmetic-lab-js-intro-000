@@ -39,5 +39,3 @@ function makeInt(n){
 }
 
 makeInt("2");
-
-
