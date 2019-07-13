@@ -20,10 +20,9 @@ divide(2, 5);
 
 var i = 0;
 
-function increment(n){
-
+function inc(n){
   n++;
   return n;
 }
 
-i=increment(i);
+i=inc(i);
