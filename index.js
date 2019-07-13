@@ -28,7 +28,7 @@ function inc(n){
 i=inc(i);
 
 function dec(n){
-  n++;
+  n--;
   return n;
 }
 
