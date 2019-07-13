@@ -33,3 +33,9 @@ function dec(n){
 }
 
 i=dec(i);
+
+function makeInt(n){
+  return n;
+}
+
+makeInt("2");
